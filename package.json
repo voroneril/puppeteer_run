@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer_run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puppeteer_run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^17.1.3"
+  }
+}
